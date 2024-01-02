@@ -3,7 +3,7 @@ project(gitPractic)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(gitPractic main.cpp
+add_executable(gitPractic gitPractic.cpp
         Math.cpp
         Math.h)
 
