@@ -4,5 +4,5 @@
 
 #ifndef GITPRACTIC_MATH_H
 #define GITPRACTIC_MATH_H
-
+int Sum (int a, int b);
 #endif //GITPRACTIC_MATH_H
