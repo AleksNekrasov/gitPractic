@@ -1,0 +1,8 @@
+# ninja log v5
+1	810	7259138453012100	CMakeFiles/delete.dir/main.cpp.obj	e525d0a126aa04e2
+817	964	7259138454524048	delete.exe	617b2cd7679e2401
+8	235	7261663660077386	CMakeFiles/gitPractic.dir/Math.cpp.obj	f5a2585a0fbb90a
+1	1002	7261663667749970	CMakeFiles/gitPractic.dir/gitPractic.cpp.obj	fe5dab1d6f7e9dae
+1005	1246	7261663670120547	gitPractic.exe	5bb4bf8658939219
+1	836	7261666991741587	CMakeFiles/gitPractic.dir/gitPractic.cpp.obj	fe5dab1d6f7e9dae
+839	993	7261666993272015	gitPractic.exe	5bb4bf8658939219
